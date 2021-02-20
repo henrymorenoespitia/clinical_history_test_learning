@@ -17,3 +17,5 @@ Features and characteristics:
 - Using PostgreSQL: cause can use a JSON field type to store Clinical recors in each time when pacient go to see a physician. 
 - Not using ORM : to practice SQL statements and PostgreSQL.
 
+In the link show desing of project, wich in free times update code, you can comment about it too.
+https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing

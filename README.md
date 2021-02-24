@@ -1,5 +1,5 @@
 # clinical_histoy_test_learning
-This is a test of learning and must be fix ..
+This is a test of stuff to apply what learning to and must be fix things such as implement OOP paradigm ...
 
 This software is part of a technical test. 
 
